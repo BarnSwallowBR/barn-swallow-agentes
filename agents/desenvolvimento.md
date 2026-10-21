@@ -1,6 +1,8 @@
 ---
 name: desenvolvimento
 description: Agente de desenvolvimento. Use para implementar funcionalidades, corrigir bugs, escrever migrations e testes, seguindo as regras e planos do projeto.
+cargo: Engenheiro de software
+categoria: Desenvolvimento
 tools: Read, Grep, Glob, Edit, Write, Bash
 ---
 

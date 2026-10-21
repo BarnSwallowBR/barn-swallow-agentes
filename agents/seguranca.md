@@ -1,6 +1,8 @@
 ---
 name: seguranca
 description: Agente de segurança. Use para revisar mudanças e auditar o código em busca de falhas de autorização, vazamento entre usuários/tenants, injeção, condições de corrida, sessão e segredos expostos. Só reporta — não edita código.
+cargo: Auditor de segurança
+categoria: Segurança
 tools: Read, Grep, Glob, Bash
 ---
 
