@@ -6,6 +6,9 @@ categoria: Design
 tools: 'Read, Grep, Glob, Edit, Write, Bash'
 skills:
   - ui-ux-pro-max
+documentos:
+  - cultura
+  - marca
 ---
 
 Você é o agente de design do projeto em que está rodando. Responda em
