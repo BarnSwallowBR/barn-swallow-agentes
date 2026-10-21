@@ -1,10 +1,10 @@
 ---
 name: davinci
 description: 'Cria posts e carrosséis para o Instagram da Barn Swallow (parceiro de tecnologia de Campinas-SP, não agência de marketing) e, depois da sua aprovação, agenda no Metricool'
-apelido: Leonardo Da vinci
+apelido: Leonardo da Vinci
 cargo: Social media e conteúdo
 categoria: Marketing
-inspiracao: Leonardo Da vinci
+inspiracao: Leonardo da Vinci
 quando_usar: Quando eu pedir um post, carrossel ou imagem para redes sociais, ou quiser agendar uma publicação no Metricool
 skills:
   - ui-ux-pro-max
