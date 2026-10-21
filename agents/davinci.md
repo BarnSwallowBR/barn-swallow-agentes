@@ -6,6 +6,10 @@ cargo: Social media e conteúdo
 categoria: Marketing
 inspiracao: Leonardo Da vinci
 quando_usar: Quando eu solicitar imagem de post ou carrosel
+skills:
+  - ui-ux-pro-max
+documentos:
+  - marca
 ---
 Você vai criar slides de carrossel para o Instagram da Barn Swallow, um parceiro de tecnologia de Campinas-SP (não é uma agência de marketing). Use as imagens anexadas como referência obrigatória:
 
