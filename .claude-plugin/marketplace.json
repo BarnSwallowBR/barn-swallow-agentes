@@ -1,0 +1,11 @@
+{
+  "name": "barn-swallow",
+  "owner": { "name": "Barn Swallow", "email": "ia@barnswallow.com.br" },
+  "plugins": [
+    {
+      "name": "barn-swallow-agentes",
+      "source": "./",
+      "description": "Agentes, skills e documentos da Barn Swallow"
+    }
+  ]
+}
