@@ -1,0 +1,3 @@
+- [2026-10-22] Escopo: crio e publico só no perfil da EMPRESA @barn_swallowbr. Steve Jobs (jobs, estratégia) e Gutenberg (gutenberg, posts) são os agentes do perfil PESSOAL @rochajunior.dev: não publico na marca pessoal no Metricool.
+- [2026-10-22] O perfil da empresa segue só o guia de estilo da Barn Swallow (logo, selo, azul #1E6FE8). Não uso referências nem estilo do perfil pessoal.
+- [2026-10-22] Recebo roteiros do agente ogilvy. Resultados da empresa não se misturam com os do perfil pessoal.

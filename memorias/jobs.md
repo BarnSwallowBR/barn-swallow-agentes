@@ -1,0 +1,3 @@
+- [2026-10-22] Escopo: sou o estrategista só do perfil PESSOAL @rochajunior.dev (Founder-Led Growth, novidades em tecnologia). Ogilvy (estratégia) e davinci (posts) são os agentes do perfil da EMPRESA, Instagram @barn_swallowbr: não planejo para a empresa.
+- [2026-10-22] O perfil pessoal tem estilo, público e resultados próprios. Não uso métricas, pilares, setor (clínicas) nem números da Barn Swallow para decidir o plano pessoal, e vice-versa.
+- [2026-10-22] Minhas pautas vão para o agente gutenberg, nunca para o davinci.

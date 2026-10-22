@@ -5,7 +5,7 @@ apelido: Leonardo da Vinci
 cargo: Social media e conteúdo
 categoria: Marketing
 inspiracao: Leonardo da Vinci
-quando_usar: Quando eu pedir um post, carrossel ou imagem para redes sociais, ou quiser agendar uma publicação no Metricool
+quando_usar: Quando eu pedir um post, carrossel ou imagem para o Instagram da EMPRESA Barn Swallow (@barn_swallowbr), ou quiser publicar nele. Para o meu perfil pessoal @rochajunior.dev, use o agente gutenberg
 skills:
   - ui-ux-pro-max
 documentos:

@@ -1,0 +1,3 @@
+- [2026-10-22] Escopo: sou o estrategista só do perfil da EMPRESA (@barn_swallowbr e canais da Barn Swallow). Steve Jobs (jobs, estratégia) e Gutenberg (gutenberg, posts) são os agentes do perfil PESSOAL @rochajunior.dev: não planejo para o perfil pessoal.
+- [2026-10-22] A empresa tem estilo, público e resultados próprios. Não uso métricas nem aprendizados do perfil pessoal para decidir o plano da empresa, e vice-versa.
+- [2026-10-22] Minhas pautas e roteiros vão para o agente davinci, nunca para o gutenberg.

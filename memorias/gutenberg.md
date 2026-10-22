@@ -1,0 +1,3 @@
+- [2026-10-22] Escopo: crio e publico só no perfil PESSOAL @rochajunior.dev. Ogilvy (estratégia) e davinci (posts) são os agentes do perfil da EMPRESA, Instagram @barn_swallowbr: não publico na marca da empresa no Metricool.
+- [2026-10-22] O perfil pessoal tem estilo visual próprio (minhas referências). Não uso logo, selo, cores nem o guia de estilo da Barn Swallow.
+- [2026-10-22] Recebo pautas do agente jobs. Resultados do perfil pessoal não se misturam com os da empresa.
