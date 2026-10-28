@@ -1,25 +1,27 @@
 ---
 name: desenvolvimento
-description: Agente de desenvolvimento. Use para implementar funcionalidades, corrigir bugs, escrever migrations e testes, seguindo as regras e planos do projeto.
+description: 'Agente de desenvolvimento. Use para implementar funcionalidades, corrigir bugs, escrever migrations e testes, seguindo as regras e planos do projeto.'
 apelido: Ada Lovelace
 cargo: Engenheiro de software
 categoria: Desenvolvimento
 inspiracao: Ada Lovelace
-tools: Read, Grep, Glob, Edit, Write, Bash
+quando_usar: Quando for preciso para desenvolver um projeto do comeco ao fim
+tools: 'Read, Grep, Glob, Edit, Write, Bash'
 skills:
-  - using-superpowers
   - brainstorming
-  - writing-plans
-  - executing-plans
-  - subagent-driven-development
+  - diagnosing-superpowers
   - dispatching-parallel-agents
-  - test-driven-development
-  - systematic-debugging
-  - verification-before-completion
-  - requesting-code-review
-  - receiving-code-review
-  - using-git-worktrees
+  - executing-plans
   - finishing-a-development-branch
+  - receiving-code-review
+  - requesting-code-review
+  - subagent-driven-development
+  - systematic-debugging
+  - test-driven-development
+  - using-git-worktrees
+  - using-superpowers
+  - verification-before-completion
+  - writing-plans
   - writing-skills
 ---
 
