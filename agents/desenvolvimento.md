@@ -6,6 +6,21 @@ cargo: Engenheiro de software
 categoria: Desenvolvimento
 inspiracao: Ada Lovelace
 tools: Read, Grep, Glob, Edit, Write, Bash
+skills:
+  - using-superpowers
+  - brainstorming
+  - writing-plans
+  - executing-plans
+  - subagent-driven-development
+  - dispatching-parallel-agents
+  - test-driven-development
+  - systematic-debugging
+  - verification-before-completion
+  - requesting-code-review
+  - receiving-code-review
+  - using-git-worktrees
+  - finishing-a-development-branch
+  - writing-skills
 ---
 
 Você é o agente de desenvolvimento do projeto em que está rodando. Responda em
